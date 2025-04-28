@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/NetBeans%20Workspace/GadgetHub/src/java/in/gadgethub/utility/DBUtil.java</file>
+            <file>file:/D:/NetBeans%20Workspace/GadgetHub/src/java/in/gadgethub/utility/Mailing.java</file>
+            <file>file:/D:/NetBeans%20Workspace/GadgetHub/web/addProduct.jsp</file>
+            <file>file:/D:/NetBeans%20Workspace/GadgetHub/src/java/in/gadgethub/dao/impl/OrderDaoImpl.java</file>
+            <file>file:/D:/NetBeans%20Workspace/GadgetHub/src/java/in/gadgethub/dao/impl/AdminDaoImpl.java</file>
+            <file>file:/D:/NetBeans%20Workspace/GadgetHub/web/header.jsp</file>
+            <file>file:/D:/NetBeans%20Workspace/GadgetHub/src/java/in/gadgethub/utility/IdUtil.java</file>
+            <file>file:/D:/NetBeans%20Workspace/GadgetHub/web/WEB-INF/web.xml</file>
+            <file>file:/D:/NetBeans%20Workspace/GadgetHub/web/shippedItems.jsp</file>
+            <file>file:/D:/NetBeans%20Workspace/GadgetHub/src/java/in/gadgethub/pojo/AdminPojo.java</file>
+            <file>file:/D:/NetBeans%20Workspace/GadgetHub/web/cartDetails.jsp</file>
+            <file>file:/D:/NetBeans%20Workspace/GadgetHub/src/java/in/gadgethub/dao/AdminDao.java</file>
+            <file>file:/D:/NetBeans%20Workspace/GadgetHub/src/java/in/gadgethub/utility/JavaMailUtil.java</file>
+            <file>file:/D:/NetBeans%20Workspace/GadgetHub/src/java/in/gadgethub/utility/Validation.java</file>
+            <file>file:/D:/NetBeans%20Workspace/GadgetHub/src/java/in/gadgethub/utility/AppInfo.java</file>
+            <file>file:/D:/NetBeans%20Workspace/GadgetHub/src/java/in/gadgethub/servlet/LoginServlet.java</file>
+            <file>file:/D:/NetBeans%20Workspace/GadgetHub/src/java/in/gadgethub/dao/impl/UserDaoImpl.java</file>
+        </group>
+    </open-files>
+</project-private>
